@@ -2,45 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cohub-hugo.netlify.app/</loc>
+    <loc>https://quay.cicy.de/conflicts-of-interest/</loc>
     <lastmod>2022-01-08T12:52:02+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/terms/</loc>
+    <loc>https://quay.cicy.de/open-an-account/</loc>
     <lastmod>2022-01-08T12:52:02+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/conflicts-of-interest/</loc>
+    <loc>https://quay.cicy.de/</loc>
+    <lastmod>2022-01-08T12:52:02+06:00</lastmod>
+  </url><url>
+    <loc>https://quay.cicy.de/terms/</loc>
+    <lastmod>2022-01-08T12:52:02+06:00</lastmod>
+  </url><url>
+    <loc>https://quay.cicy.de/dataprotection/</loc>
     <lastmod>2022-01-08T12:51:52+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/privacy/</loc>
+    <loc>https://quay.cicy.de/execution-policy/</loc>
     <lastmod>2022-01-08T12:51:52+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/contact/</loc>
+    <loc>https://quay.cicy.de/privacy/</loc>
+    <lastmod>2022-01-08T12:51:52+06:00</lastmod>
+  </url><url>
+    <loc>https://quay.cicy.de/risk-warning/</loc>
+    <lastmod>2022-01-08T12:51:52+06:00</lastmod>
+  </url><url>
+    <loc>https://quay.cicy.de/contact/</loc>
     <lastmod>2022-01-08T11:25:11+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/about/</loc>
+    <loc>https://quay.cicy.de/about/_index-copy/</loc>
     <lastmod>2022-01-08T10:41:03+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/blog/foreign-exchange/</loc>
+    <loc>https://quay.cicy.de/about/</loc>
+    <lastmod>2022-01-08T10:41:03+06:00</lastmod>
+  </url><url>
+    <loc>https://quay.cicy.de/conflicts-of-interest/x_index/</loc>
+    <lastmod>2022-01-08T10:41:03+06:00</lastmod>
+  </url><url>
+    <loc>https://quay.cicy.de/blog/foreign-exchange/</loc>
     <lastmod>2022-01-06T11:18:56+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/tags/news/</loc>
+    <loc>https://quay.cicy.de/blog/</loc>
     <lastmod>2022-01-06T11:18:56+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/blog/</loc>
+    <loc>https://quay.cicy.de/tags/services/</loc>
     <lastmod>2022-01-06T11:18:56+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/tags/services/</loc>
+    <loc>https://quay.cicy.de/tags/</loc>
     <lastmod>2022-01-06T11:18:56+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/tags/</loc>
-    <lastmod>2022-01-06T11:18:56+06:00</lastmod>
-  </url><url>
-    <loc>https://cohub-hugo.netlify.app/blog/futures-and-options/</loc>
+    <loc>https://quay.cicy.de/blog/futures-and-options/</loc>
     <lastmod>2022-01-06T11:18:32+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/blog/securities/</loc>
+    <loc>https://quay.cicy.de/blog/securities/</loc>
     <lastmod>2022-01-06T11:16:38+06:00</lastmod>
   </url><url>
-    <loc>https://cohub-hugo.netlify.app/categories/</loc>
+    <loc>https://quay.cicy.de/categories/</loc>
   </url>
 </urlset>

@@ -1,7 +1,7 @@
 ---
 title: "Securities"
 date: 2022-01-06T11:16:38+06:00
-featureImage: images/blog/blog-thumb-1.jpg
+featureImage: images/blog/Quay_1280x865-3.jpg
 tags: ["Services"]
 ---
 
@@ -28,4 +28,4 @@ We will:
 - Option to give orders over the phone or utilize our state of the art electronic trading platform
 - Clients can be assured that they will be dealing with experienced professional investment advisors who understand the investment instruments they are trading and the need for efficient execution and settlement of trades.
 
-Contact us for more information.
+[Contact](/contact) us for more information.

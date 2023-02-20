@@ -1,7 +1,7 @@
 ---
 title: "Futures and Options"
 date: 2022-01-06T11:18:32+06:00
-featureImage: images/blog/blog-thumb-1.jpg
+featureImage: images/blog/Quay_1280x865-2.jpg
 tags: ["Services"]
 ---
 
@@ -30,4 +30,4 @@ We will:
 
 Clients can be assured that they will be dealing with experienced professional investment advisors who understand the investment instruments they are trading and the need for efficient execution and settlement of trades.
 
-Contact us for more information.
+[Contact ](/contact) us for more information.

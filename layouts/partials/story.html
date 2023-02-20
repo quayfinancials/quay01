@@ -1,0 +1,29 @@
+<section class="story">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <div class="story-content">
+          <h2>This Is Our Story.</h2>
+          <p>
+            Quay Financials (Gibraltar) Limited was formerly Van der Moolen
+            (Gibraltar) Limited (which was part of the Van der Moolen Group
+            whose ultimate parent company was Van der Moolen Holdings NV, a
+            company quoted on Euronext (Amsterdam)). The Gibraltar subsidiary
+            was the subject of a Management Buy-Out in June 2008. Quay
+            Financials (Gibraltar) Limited is now wholly owned by a Gibraltarian
+            holding company.
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="story-slider">
+          {{ range .Params.sliderImage }}
+            <div class="slider-item">
+              <img src="{{ .image | absURL }}" alt="images" />
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -2,12 +2,11 @@
 title: "This includes"
 enable: true
 subtitle: >
-  instantaneous order execution and trade transmission to the
-  correspondent clearing and settlement venues of our customer’s choice.
+  instantaneous order execution and trade transmission in all importand markets worldwide.
 galleryImage:
-  - image: "images/gallery/gallery01.jpg"
-  - image: "images/gallery/gallery02.jpg"
-  - image: "images/gallery/gallery03.jpg"
-  - image: "images/gallery/gallery04.jpg"
+  - image: "images/intro/intro-1.jpg"
+  - image: "images/intro/intro-2.jpg"
+  - image: "images/intro/intro-3.jpg"
+  - image: "images/intro/intro-4.jpg"
 ---
 Gallery Content Text

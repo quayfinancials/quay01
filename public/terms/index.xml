@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QUAY Terms &amp; Conditions on QUAY Financials</title>
-    <link>https://cohub-hugo.netlify.app/terms/</link>
+    <link>https://quay.cicy.de/terms/</link>
     <description>Recent content in QUAY Terms &amp; Conditions on QUAY Financials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 08 Jan 2022 12:52:02 +0600</lastBuildDate><atom:link href="https://cohub-hugo.netlify.app/terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 12:52:02 +0600</lastBuildDate><atom:link href="https://quay.cicy.de/terms/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

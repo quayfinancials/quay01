@@ -2,10 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>What we do on QUAY Financials</title>
-    <link>https://cohub-hugo.netlify.app/about/</link>
+    <link>https://quay.cicy.de/about/</link>
     <description>Recent content in What we do on QUAY Financials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 08 Jan 2022 10:41:03 +0600</lastBuildDate><atom:link href="https://cohub-hugo.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 10:41:03 +0600</lastBuildDate><atom:link href="https://quay.cicy.de/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What we do</title>
+      <link>https://quay.cicy.de/about/_index-copy/</link>
+      <pubDate>Sat, 08 Jan 2022 10:41:03 +0600</pubDate>
+      
+      <guid>https://quay.cicy.de/about/_index-copy/</guid>
+      <description>This includes direct, algorithmic and electronic trading in listed and over the counter securities, up-to-the-minute market information, instantaneous order execution, and correspondent clearing services. This website principally addresses the Brokerage Division.
+Quay Financials (Gibraltar) Limited was formerly Van der Moolen (Gibraltar) Limited (which was part of the Van der Moolen Group whose ultimate parent company was Van der Moolen Holdings NV, a company quoted on Euronext (Amsterdam)). The Gibraltar subsidiary was the subject of a Management Buy-Out in June 2008.</description>
+    </item>
+    
   </channel>
 </rss>

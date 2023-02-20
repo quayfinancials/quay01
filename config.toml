@@ -1,4 +1,4 @@
-baseURL = 'https://cohub-hugo.netlify.app'
+baseURL = 'https://quay.cicy.de'
 languageCode = 'en-gb'
 paginate = 6
 theme= "coHub"
@@ -37,20 +37,20 @@ title = 'QUAY Financials'
 
   # Sitemap Menu
   [[menu.sitemap]]
-  name = "Conficts of Interest"
+  name = "Conflicts of Interest"
   url = "/conflicts-of-interest/"
   weight = 1
   [[menu.sitemap]]
   name = "Execution Policy"
-  url = "/terms#execution-policy/"
+  url = "/execution-policy/"
   weight = 2
   [[menu.sitemap]]
   name = "Risk Warning"
-  url = "/terms#risk-warning/"
+  url = "/risk-warning/"
   weight = 3
   [[menu.sitemap]]
   name = "Data Protection"
-  url = "/terms#data-protection/"
+  url = "/dataprotection/"
   weight = 4
 
 [params]
@@ -64,7 +64,8 @@ title = 'QUAY Financials'
   footerDescription = "Quay Financials is authorised and regulated as an Investment Dealer by the Gibraltar Financial Services Commission. Its licence also requires compliance with the Markets in Financial Instruments Directive and Regulations (MiFID/MiFIR) at least until the expected departure of the United Kingdom and Gibraltar from the European Union."
 
   [params.address]
-  address = "Quay Financials Limited,  Eurotowers Suite 3.2.13, Gibraltar – GX11 1AA"
+  address = "Quay Financials Limited,"
+  address2 = "Eurotowers Suite 3.2.13, Gibraltar – GX11 1AA"
   email = "sales@quayfinancials.com"
   openingDesc = "Give us a call or contact us by email."
   openingHours = "We endeavour to answer all enquiries within 24 hours on business days"

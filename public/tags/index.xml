@@ -2,26 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on QUAY Financials</title>
-    <link>https://cohub-hugo.netlify.app/tags/</link>
+    <link>https://quay.cicy.de/tags/</link>
     <description>Recent content in Tags on QUAY Financials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate><atom:link href="https://cohub-hugo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>News</title>
-      <link>https://cohub-hugo.netlify.app/tags/news/</link>
-      <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
-      
-      <guid>https://cohub-hugo.netlify.app/tags/news/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate><atom:link href="https://quay.cicy.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Services</title>
-      <link>https://cohub-hugo.netlify.app/tags/services/</link>
+      <link>https://quay.cicy.de/tags/services/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
       
-      <guid>https://cohub-hugo.netlify.app/tags/services/</guid>
+      <guid>https://quay.cicy.de/tags/services/</guid>
       <description></description>
     </item>
     
