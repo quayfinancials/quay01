@@ -1,16 +1,15 @@
 ---
-title: "About"
+title: "What we do"
 date: 2022-01-08T10:41:03+06:00
 subTitle: >
-        Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
+  Quay Financials (Gibraltar) Limited operates a Brokerage Division that is Gibraltar’s premier brokerage operation and provides institutions and professional clients with a high quality execution-only service.
+
 sliderImage:
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
 ---
+
 ## This Is Our Story.
 
-We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new
-ideas and better experiences in everything they do. Because today’s hyper-connected world deserves a
-financial partner just as progressive.One that adapts to your needs, gives you control and constantly pushes
-you into new exciting spaces.
+Quay Financials (Gibraltar) Limited was formerly Van der Moolen (Gibraltar) Limited (which was part of the Van der Moolen Group whose ultimate parent company was Van der Moolen Holdings NV, a company quoted on Euronext (Amsterdam)). The Gibraltar subsidiary was the subject of a Management Buy-Out in June 2008. Quay Financials (Gibraltar) Limited is now wholly owned by a Gibraltarian holding company.

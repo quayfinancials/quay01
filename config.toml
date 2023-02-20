@@ -1,17 +1,17 @@
 baseURL = 'https://cohub-hugo.netlify.app'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 paginate = 6
 theme= "coHub"
-title = 'coHub'
- 
+title = 'QUAY Financials'
+
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Exibhition"
+  name = "QUAY"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
-  name = "Feature"
+  name = "Service"
   url= "#service"
   weight = 1
   [[menu.Main]]
@@ -19,11 +19,11 @@ title = 'coHub'
   url= "/about/"
   weight = 3
   [[menu.Main]]
-  name = "Blog"
+  name = "News"
   url= "#blog"
   weight = 4
   [[menu.Main]]
-  name = "Pricing"
+  name = "Open An Account"
   url= "#pricing"
   weight = 5
   [[menu.Main]]
@@ -37,35 +37,43 @@ title = 'coHub'
 
   # Sitemap Menu
   [[menu.sitemap]]
-  name = "Privacy Policy"
-  url = "/privacy/"
+  name = "Conficts of Interest"
+  url = "/conflicts-of-interest/"
   weight = 1
   [[menu.sitemap]]
-  name = "Terms"
-  url = "/terms/"
+  name = "Execution Policy"
+  url = "/terms#execution-policy/"
   weight = 2
+  [[menu.sitemap]]
+  name = "Risk Warning"
+  url = "/terms#risk-warning/"
+  weight = 3
+  [[menu.sitemap]]
+  name = "Data Protection"
+  url = "/terms#data-protection/"
+  weight = 4
 
 [params]
   aboutPageURL = "blog"
   contactLink = "contact"
-  copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
+  copyright = "© {year} <a href=\"https://quay-financials.com/imprint\" target=\"_blank\">QUAY </a>"
   fabFormURL =  "https://fabform.io/f/u00kv3-"
-  googleAnalytics = "G-JZ95FEWF9K"
-  logo = "images/logo.png"
-  footerlogo = "images/logo.png"
-  footerDescription = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit quia ab, natus fugiat voluptas saepe ipsum animi officiis in molestiae?"
+  googleAnalytics = "G-"
+  logo = "images/logo-quay-lightblue-smooth.png"
+  footerlogo = "images/logo-quay.png"
+  footerDescription = "Quay Financials is authorised and regulated as an Investment Dealer by the Gibraltar Financial Services Commission. Its licence also requires compliance with the Markets in Financial Instruments Directive and Regulations (MiFID/MiFIR) at least until the expected departure of the United Kingdom and Gibraltar from the European Union."
 
   [params.address]
-  address = "115 W 18th St. <br>  New York, NY 10011"
-  email = "hello@example.com"
-  openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
-  openingHours = "We are open from 7am — 7pm week days."
-  phone = "+(448) 833 5272 332"
+  address = "Quay Financials Limited,  Eurotowers Suite 3.2.13, Gibraltar – GX11 1AA"
+  email = "sales@quayfinancials.com"
+  openingDesc = "Give us a call or contact us by email."
+  openingHours = "We endeavour to answer all enquiries within 24 hours on business days"
+  phone = " +350 200 48733"
 
   [params.map]
   APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
-  latitude = "45.4502528"
-  longitude = "-122.783407"
+  latitude = "36.1432837"
+  longitude = "-5.3587071"
   pinImage = "images/pin.png"
 
   # Socail icons
@@ -78,12 +86,15 @@ title = 'coHub'
   url = "https://twitter.com/"
   weight = 2
   [[params.social]]
-  icon = "ti-dribbble"
-  url = "https://dribbble.com/"
-  weight = 3
-  [[params.social]]
   icon = "ti-instagram"
   url = "https://www.instagram.com/"
-  weight = 4
-  
-  
+  weight = 3
+
+
+[blackfriday]
+extensions = [
+  "hardLineBreak", # newlines result in line breaks
+]
+
+[markup.goldmark.renderer]
+hardWraps = true

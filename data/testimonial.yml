@@ -1,8 +1,9 @@
 ---
 enable: true
 testimonial:
-  - author: "TechCrunch"
-    testimonialDetails: "Behind every great product, there is a great mind"
-  - author: "Yarnban"
-    testimonialDetails: "Behind every great product, there is a great mind"
+  - author: "Peter Schmidt"
+    testimonialDetails: "Even in difficult times, there was always a reliable service"
+  - author: "Chris Aron "
+    testimonialDetails: "Dedicaton for me as client made me stay for already 12 years now"
 ---
+

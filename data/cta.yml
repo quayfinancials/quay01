@@ -1,6 +1,7 @@
 ---
 enable: true
-title: "Visit coHub for a day."
+title: "Schedule a callback."
 buttonTarget: contact
-priceLink: "#priceLink"
+priceLink: "/contact"
 ---
+
