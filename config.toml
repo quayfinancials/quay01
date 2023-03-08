@@ -8,11 +8,7 @@ title = 'QUAY Financials'
   # Main Menu
   [[menu.Main]]
   name = "QUAY"
-  url= "#gallery"
-  weight = 1
-  [[menu.Main]]
-  name = "Service"
-  url= "#service"
+  url= "/"
   weight = 1
   [[menu.Main]]
   name = "About"
@@ -39,7 +35,7 @@ title = 'QUAY Financials'
   [[menu.sitemap]]
   name = "Conflicts of Interest"
   url = "/conflicts-of-interest/"
-  weight = 1
+  weight = 3
   [[menu.sitemap]]
   name = "Execution Policy"
   url = "/execution-policy/"
@@ -47,7 +43,7 @@ title = 'QUAY Financials'
   [[menu.sitemap]]
   name = "Risk Warning"
   url = "/risk-warning/"
-  weight = 3
+  weight = 1
   [[menu.sitemap]]
   name = "Data Protection"
   url = "/dataprotection/"
@@ -55,6 +51,7 @@ title = 'QUAY Financials'
 
 [params]
   aboutPageURL = "blog"
+  servicesPageURL = "services"
   contactLink = "contact"
   copyright = "© {year} <a href=\"https://quay-financials.com/imprint\" target=\"_blank\">QUAY </a>"
   fabFormURL =  "https://fabform.io/f/u00kv3-"

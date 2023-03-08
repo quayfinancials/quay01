@@ -8,26 +8,19 @@
         <p class="footer-description">
           {{ .Site.Params.footerDescription }}
         </p>
-        <div class="footer-text-block">
+      </div>
+
+      <div class="col-lg-6 col-md-12">
+        <div class="footer-text-blocks" style="padding-top: 65px;">
           <p>
             {{ .Site.Params.address.address | safeHTML }}<br />
             {{ .Site.Params.address.address2 | safeHTML }}
           </p>
         </div>
       </div>
+
       {{ $socialIcon := .Site.Params.social }}
-      <div class="col-lg-6 col-md-12 align-self-end">
-        <div class="footer-icon">
-          <ul>
-            {{ range $socialIcon }}
-              <li>
-                <a target="_blank" href="{{ .url }}">
-                  <i class="{{ .icon }}"> </i>
-                </a>
-              </li>
-            {{ end }}
-          </ul>
-        </div>
+      <div class=" col-sm-12 align-self-end">
         <div class="footer-copyright-text">
           <p>
             {{ replace .Site.Params.copyright "{year}" now.Year | safeHTML }}

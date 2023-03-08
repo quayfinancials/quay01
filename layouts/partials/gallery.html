@@ -10,22 +10,6 @@
             </div>
           </div>
         </div>
-
-        <div class="row">
-          {{ range .galleryImage }}
-            <div class="col-md-6">
-              <div class="gallery-item">
-                <a
-                  href="{{ .image | absURL }}"
-                  data-source="{{ .image | absURL }}"
-                  title="Exibhition 01"
-                >
-                  <img src="{{ .image | absURL }}" alt="gallery-images" />
-                </a>
-              </div>
-            </div>
-          {{ end }}
-        </div>
       </div>
     </section>
   {{ end }}

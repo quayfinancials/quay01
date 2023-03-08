@@ -118,35 +118,42 @@
     display: flex;
     justify-content: flex-end;
     opacity: 0.5;
+    padding-top: 2rem;
+
+    padding-top: 30px;
+    border-top: 1px solid grey;
 
     @include desktop {
       justify-content: center;
     }
 
     p {
-      font-size: 12px;
+      font-size: 1rem;
       margin-bottom: 0;
     }
 
     ul {
       padding: 0;
-      margin: 0;
 
       li {
         list-style: none;
         display: inline-block;
         padding-left: 20px;
+        color: blue;
 
         a {
-          font-size: 12px;
-          color: #666666;
+          font-size: 1rem;
+          color: $primary-color;
           transition: all 0.3s ease-in-out;
         }
+      }
+      li:first-child a {
+        color: red;
       }
     }
   }
 
   li:hover > a {
-    color: $primary-color;
+    color: $secondary-color;
   }
 }

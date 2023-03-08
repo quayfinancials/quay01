@@ -3,6 +3,7 @@
   position: relative;
   background-position: center;
   background-size: cover;
+  overflow: hidden;
 
   @include desktop-lg {
     padding: 150px 0 120px;
@@ -120,4 +121,21 @@
       font-family: $primary-font;
     }
   }
+}
+
+video {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  background-color: $primary-color;
+
+  min-height: 100%;
+  z-index: -100;
+  background-size: cover;
+  transition: 1s opacity;
+}
+.hero-content {
+  background-color: rgba(32, 36, 72, 0.2);
+  padding: 10px 0 5px 0;
+  border: 1px solid white;
 }

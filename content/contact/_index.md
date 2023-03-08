@@ -6,7 +6,7 @@ subTitle: >
 
 Contact us here or send a direct e-Mail to
 
-[sales@quaifinancials.com](mailto:sales@quaifinancials.com) .
+[sales@quayfinancials.com](mailto:sales@quayfinancials.com) .
 
 or call our OFFICE: +350 200 48733
 

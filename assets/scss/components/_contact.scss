@@ -53,6 +53,31 @@
       }
     }
   }
+  .bg-pic {
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+  #contactpic {
+    background-image: url("/images/hero/hero-bg.jpg");
+    background-image: url("/images/contact/telephone.jpg");
+    height: 100%; /* you must set a height wie bg-pic*/
+
+    @include desktop {
+      height: 500px;
+    }
+    @include tablet {
+      height: 400px;
+    }
+    @include mobile {
+      height: 300px;
+    }
+    @include mobile-xs {
+      height: 200px;
+    }
+  }
   #map {
     height: 100%;
 

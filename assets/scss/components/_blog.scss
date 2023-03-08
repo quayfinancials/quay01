@@ -29,6 +29,7 @@
     border-right: 1px solid #ececec;
     border-bottom: 1px solid #ececec;
     border-radius: 0px 5px 5px 5px;
+    background-color: #efefef;
 
     h3 {
       @include mobile-xs {
@@ -167,7 +168,7 @@
     }
 
     blockquote {
-      p{
+      p {
         font-size: 20px;
         line-height: 30px;
         color: $text-color-dark;
@@ -204,12 +205,12 @@
       }
     }
   }
-  p{
-    .tags{
+  p {
+    .tags {
       font-size: 14px;
       color: #666;
       font-weight: 500;
-      transition: all .3s ease-in-out;
+      transition: all 0.3s ease-in-out;
       display: inline-block;
       text-decoration: none;
       &:nth-child(2) {
@@ -218,10 +219,10 @@
       &:not(:last-child) {
         margin-right: 5px;
       }
-      &:hover{
+      &:hover {
         color: #0056b3;
         text-decoration: underline;
       }
-    } 
+    }
   }
 }

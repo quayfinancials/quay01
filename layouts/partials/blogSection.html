@@ -15,7 +15,7 @@
         <div class="row justify-content-center">
           {{ range first 3 (where $.Site.RegularPages "Type" "blog") }}
             <div class="col-lg-4 col-md-6">
-              <article class="blog-post">
+              <article class="blog-post shadow">
                 <img
                   src="{{ .Params.featureImage | absURL }}"
                   alt="blog-images"
@@ -32,7 +32,7 @@
           {{ end }}
           <div class="col-12 text-center">
             <a href="{{ .buttonTarget | absURL }}" class="btn btn-primary"
-              >Services and News</a
+              >News Blog</a
             >
           </div>
         </div>
