@@ -1,4 +1,4 @@
-baseURL = 'https://quay.cicy.de'
+baseURL = 'https://quayfinancials.cicy.de'
 languageCode = 'en-gb'
 paginate = 6
 theme= "coHub"
@@ -20,12 +20,9 @@ title = 'QUAY Financials'
   weight = 4
   [[menu.Main]]
   name = "Open An Account"
-  url= "#pricing"
+  url= "/open-an-account"
   weight = 5
-  [[menu.Main]]
-  name = "FAQ"
-  url= "#faq"
-  weight = 6
+
   [[menu.Main]]
   name = "Contact"
   url= "/contact/"

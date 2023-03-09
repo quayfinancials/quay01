@@ -1,8 +1,8 @@
 ---
 title: "Open an trading account"
-date: 2022-01-08T12:52:02+06:00
+date: 2023-01-08T12:52:02+06:00
 subtitle: >
-  here comes the subtitle
+  Services for experienced traders
 ---
 
 ## Open A Trading Account

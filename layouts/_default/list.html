@@ -1,1 +1,27 @@
-<span class="layouts_default_list"></span>
+{{ define "main" }}
+  <section class="layouts_default_list">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="page-header">
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Params.subTitle }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="content">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-9">
+          <div class="story-content">{{ .Content }}</div>
+        </div>
+        <div class="col-lg-3">
+          <div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
