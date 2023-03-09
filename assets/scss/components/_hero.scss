@@ -1,7 +1,7 @@
 .hero {
-  padding: 250px 0 200px;
+  padding: 240px 0 180px;
   position: relative;
-  background-position: center;
+  background-position: center, bottom;
   background-size: cover;
   overflow: hidden;
 
@@ -9,13 +9,16 @@
     padding: 150px 0 120px;
   }
   @include desktop {
-    padding: 200px 0 120px;
+    padding: 120px 0 40px;
+    margin-top: 90px;
   }
   @include tablet {
-    padding: 150px 0 100px;
+    padding: 40px 0 10px;
+    margin-top: 90px;
   }
   @include mobile {
-    padding: 120px 0 80px;
+    padding: 40px 0 40px;
+    margin-top: 120px;
   }
 
   &::after {
