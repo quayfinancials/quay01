@@ -356,14 +356,3 @@ function initialize() {
 if ($("#map").length > 0) {
   google.maps.event.addDomListener(window, "load", initialize);
 }
-
-var promise = document.querySelector("video").play();
-if (promise !== undefined) {
-  promise
-    .then((_) => {
-      // Autoplay funktioniert!
-    })
-    .catch((error) => {
-      // Autoplay wurde unterbunden.
-    });
-}
