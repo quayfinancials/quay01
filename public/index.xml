@@ -2,47 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QUAY Financials</title>
-    <link>https://quay.cicy.de/</link>
+    <link>https://quayfinancials.cicy.de/</link>
     <description>Recent content on QUAY Financials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 08 Jan 2022 12:52:02 +0600</lastBuildDate><atom:link href="https://quay.cicy.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 12:52:02 +0600</lastBuildDate><atom:link href="https://quayfinancials.cicy.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What we do</title>
-      <link>https://quay.cicy.de/about/_index-copy/</link>
+      <link>https://quayfinancials.cicy.de/about/_index-copy/</link>
       <pubDate>Sat, 08 Jan 2022 10:41:03 +0600</pubDate>
       
-      <guid>https://quay.cicy.de/about/_index-copy/</guid>
+      <guid>https://quayfinancials.cicy.de/about/_index-copy/</guid>
       <description>This includes direct, algorithmic and electronic trading in listed and over the counter securities, up-to-the-minute market information, instantaneous order execution, and correspondent clearing services. This website principally addresses the Brokerage Division.
 Quay Financials (Gibraltar) Limited was formerly Van der Moolen (Gibraltar) Limited (which was part of the Van der Moolen Group whose ultimate parent company was Van der Moolen Holdings NV, a company quoted on Euronext (Amsterdam)). The Gibraltar subsidiary was the subject of a Management Buy-Out in June 2008.</description>
     </item>
     
     <item>
       <title>What we do</title>
-      <link>https://quay.cicy.de/conflicts-of-interest/x_index/</link>
+      <link>https://quayfinancials.cicy.de/conflicts-of-interest/x_index/</link>
       <pubDate>Sat, 08 Jan 2022 10:41:03 +0600</pubDate>
       
-      <guid>https://quay.cicy.de/conflicts-of-interest/x_index/</guid>
+      <guid>https://quayfinancials.cicy.de/conflicts-of-interest/x_index/</guid>
       <description>Conflicts of Interest Policy Introduction and principles As a provider of financial services, Quay Financials (Gibraltar) Limited, including all its entities is required to maintain and operate effective organizational and administrative arrangements with a view to taking all reasonable steps to identify, monitor and mange conflicts of interest. Quay has put in place a policy to safeguard its clients’ interests.
 Quay faces actual and potential Conflicts of Interest periodically. Quay is fully committed to professionalism and integrity in doing business, thereby treating our customer fairly.</description>
     </item>
     
     <item>
-      <title>Foreign Exchange</title>
-      <link>https://quay.cicy.de/blog/foreign-exchange/</link>
+      <title>Blog1</title>
+      <link>https://quayfinancials.cicy.de/blog/blog001/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
       
-      <guid>https://quay.cicy.de/blog/foreign-exchange/</guid>
+      <guid>https://quayfinancials.cicy.de/blog/blog001/</guid>
+      <description>Blog1 Entry 5 notes to ukraine market situation:
+The ongoing conflict in Ukraine has been a topic of international concern since its inception in 2014. The conflict began as a result of political and economic unrest in Ukraine, which was brought about by the country&amp;rsquo;s decision to move closer to the European Union and away from Russia. The conflict has caused a significant disruption to the Ukrainian economy, but it has also created opportunities for investment.</description>
+    </item>
+    
+    <item>
+      <title>Foreign Exchange</title>
+      <link>https://quayfinancials.cicy.de/services/foreign-exchange/</link>
+      <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
+      
+      <guid>https://quayfinancials.cicy.de/services/foreign-exchange/</guid>
       <description>Foreign Exchange FX Trading:
 Quay Financials is able to offer hedge funds, asset managers and professional traders access to a 24-hour inter-bank FX trading environment online or via phone in spot, forward and option contracts. Quay Financials’ FX trading desks are run by market professionals with over 20 years of experience covering all of our clients’ needs from execution to currency delivery (if required). Quay Financials’ global market coverage is key to our service, backed up with the ability to update on relevant market news throughout the day and night.</description>
     </item>
     
     <item>
-      <title>Futures and Options</title>
-      <link>https://quay.cicy.de/blog/futures-and-options/</link>
+      <title>Blog2</title>
+      <link>https://quayfinancials.cicy.de/blog/blog002/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:32 +0600</pubDate>
       
-      <guid>https://quay.cicy.de/blog/futures-and-options/</guid>
+      <guid>https://quayfinancials.cicy.de/blog/blog002/</guid>
+      <description>Blog2 Quay Financials provides you with a personalised global stock broking service that uses the clearing and custodian facilities of industry leaders.
+We offer execution only and advisory brokering services.
+The more experienced client, whether investor or trader, requires a comprehensive and efficient service that ensures trades are executed and settled in the most efficient manner possible.
+Other individuals and professional intermediaries require a basic service where they can give simple instructions to purchase or sell securities.</description>
+    </item>
+    
+    <item>
+      <title>Futures and Options</title>
+      <link>https://quayfinancials.cicy.de/services/futures-and-options/</link>
+      <pubDate>Thu, 06 Jan 2022 11:18:32 +0600</pubDate>
+      
+      <guid>https://quayfinancials.cicy.de/services/futures-and-options/</guid>
       <description>Futures &amp;amp; Options Quay Financials provides you with a personalised global stock broking service that uses the clearing and custodian facilities of industry leaders.
 We offer execution only and advisory brokering services.
 The more experienced client, whether investor or trader, requires a comprehensive and efficient service that ensures trades are executed and settled in the most efficient manner possible.
@@ -50,11 +72,23 @@ Other individuals and professional intermediaries require a basic service where 
     </item>
     
     <item>
-      <title>Securities</title>
-      <link>https://quay.cicy.de/blog/securities/</link>
+      <title>Blog3</title>
+      <link>https://quayfinancials.cicy.de/blog/blog003/</link>
       <pubDate>Thu, 06 Jan 2022 11:16:38 +0600</pubDate>
       
-      <guid>https://quay.cicy.de/blog/securities/</guid>
+      <guid>https://quayfinancials.cicy.de/blog/blog003/</guid>
+      <description>Blog 3 Quay Financials provides you with a personalised global stock broking service that uses the clearing and custodian facilities of industry leaders.
+We offer execution only and advisory brokering services.
+The more experienced client, whether investor or trader, requires a comprehensive and efficient service that ensures trades are executed and settled in the most efficient manner possible.
+Other individuals and professional intermediaries require a basic service where they can give simple instructions to purchase or sell securities.</description>
+    </item>
+    
+    <item>
+      <title>Securities</title>
+      <link>https://quayfinancials.cicy.de/services/securities/</link>
+      <pubDate>Thu, 06 Jan 2022 11:16:38 +0600</pubDate>
+      
+      <guid>https://quayfinancials.cicy.de/services/securities/</guid>
       <description>Securities Quay Financials provides you with a personalised global stock broking service that uses the clearing and custodian facilities of industry leaders.
 We offer execution only and advisory brokering services.
 The more experienced client, whether investor or trader, requires a comprehensive and efficient service that ensures trades are executed and settled in the most efficient manner possible.

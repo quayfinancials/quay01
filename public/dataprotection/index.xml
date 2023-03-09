@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Protection on QUAY Financials</title>
-    <link>https://quay.cicy.de/dataprotection/</link>
+    <link>https://quayfinancials.cicy.de/dataprotection/</link>
     <description>Recent content in Data Protection on QUAY Financials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 08 Jan 2022 12:51:52 +0600</lastBuildDate><atom:link href="https://quay.cicy.de/dataprotection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 12:51:52 +0600</lastBuildDate><atom:link href="https://quayfinancials.cicy.de/dataprotection/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,60 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://quay.cicy.de/conflicts-of-interest/</loc>
+    <loc>https://quayfinancials.cicy.de/open-an-account/</loc>
+    <lastmod>2023-01-08T12:52:02+06:00</lastmod>
+  </url><url>
+    <loc>https://quayfinancials.cicy.de/</loc>
+    <lastmod>2023-01-08T12:52:02+06:00</lastmod>
+  </url><url>
+    <loc>https://quayfinancials.cicy.de/risk-warning/</loc>
+    <lastmod>2023-01-08T12:51:52+06:00</lastmod>
+  </url><url>
+    <loc>https://quayfinancials.cicy.de/conflicts-of-interest/</loc>
     <lastmod>2022-01-08T12:52:02+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/open-an-account/</loc>
+    <loc>https://quayfinancials.cicy.de/terms/</loc>
     <lastmod>2022-01-08T12:52:02+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/</loc>
-    <lastmod>2022-01-08T12:52:02+06:00</lastmod>
-  </url><url>
-    <loc>https://quay.cicy.de/terms/</loc>
-    <lastmod>2022-01-08T12:52:02+06:00</lastmod>
-  </url><url>
-    <loc>https://quay.cicy.de/dataprotection/</loc>
+    <loc>https://quayfinancials.cicy.de/dataprotection/</loc>
     <lastmod>2022-01-08T12:51:52+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/execution-policy/</loc>
+    <loc>https://quayfinancials.cicy.de/execution-policy/</loc>
     <lastmod>2022-01-08T12:51:52+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/privacy/</loc>
+    <loc>https://quayfinancials.cicy.de/privacy/</loc>
     <lastmod>2022-01-08T12:51:52+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/risk-warning/</loc>
-    <lastmod>2022-01-08T12:51:52+06:00</lastmod>
-  </url><url>
-    <loc>https://quay.cicy.de/contact/</loc>
+    <loc>https://quayfinancials.cicy.de/contact/</loc>
     <lastmod>2022-01-08T11:25:11+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/about/_index-copy/</loc>
+    <loc>https://quayfinancials.cicy.de/about/_index-copy/</loc>
     <lastmod>2022-01-08T10:41:03+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/about/</loc>
+    <loc>https://quayfinancials.cicy.de/about/</loc>
     <lastmod>2022-01-08T10:41:03+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/conflicts-of-interest/x_index/</loc>
+    <loc>https://quayfinancials.cicy.de/conflicts-of-interest/x_index/</loc>
     <lastmod>2022-01-08T10:41:03+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/blog/foreign-exchange/</loc>
+    <loc>https://quayfinancials.cicy.de/tags/blog/</loc>
     <lastmod>2022-01-06T11:18:56+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/blog/</loc>
+    <loc>https://quayfinancials.cicy.de/blog/blog001/</loc>
     <lastmod>2022-01-06T11:18:56+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/tags/services/</loc>
+    <loc>https://quayfinancials.cicy.de/services/foreign-exchange/</loc>
     <lastmod>2022-01-06T11:18:56+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/tags/</loc>
+    <loc>https://quayfinancials.cicy.de/blog/</loc>
     <lastmod>2022-01-06T11:18:56+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/blog/futures-and-options/</loc>
+    <loc>https://quayfinancials.cicy.de/services/</loc>
+    <lastmod>2022-01-06T11:18:56+06:00</lastmod>
+  </url><url>
+    <loc>https://quayfinancials.cicy.de/tags/services/</loc>
+    <lastmod>2022-01-06T11:18:56+06:00</lastmod>
+  </url><url>
+    <loc>https://quayfinancials.cicy.de/tags/</loc>
+    <lastmod>2022-01-06T11:18:56+06:00</lastmod>
+  </url><url>
+    <loc>https://quayfinancials.cicy.de/blog/blog002/</loc>
     <lastmod>2022-01-06T11:18:32+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/blog/securities/</loc>
+    <loc>https://quayfinancials.cicy.de/services/futures-and-options/</loc>
+    <lastmod>2022-01-06T11:18:32+06:00</lastmod>
+  </url><url>
+    <loc>https://quayfinancials.cicy.de/blog/blog003/</loc>
     <lastmod>2022-01-06T11:16:38+06:00</lastmod>
   </url><url>
-    <loc>https://quay.cicy.de/categories/</loc>
+    <loc>https://quayfinancials.cicy.de/services/securities/</loc>
+    <lastmod>2022-01-06T11:16:38+06:00</lastmod>
+  </url><url>
+    <loc>https://quayfinancials.cicy.de/categories/</loc>
   </url>
 </urlset>
