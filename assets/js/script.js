@@ -3,7 +3,7 @@ $(document).ready(function () {
   //Copyright Date
   // var newYear = document.getElementById("newYear");
   // newYear.innerHTML = new Date().getFullYear();
-  
+
   // Scroll to top
   $("a[href='#top']").click(function () {
     $("html, body").animate(
@@ -334,7 +334,7 @@ $(window).on("scroll", function () {
        style: google.maps.ZoomControlStyle.LARGE,
      },
    };
- 
+
    map = new google.maps.Map(document.getElementById("map"), mapOptions);
    // SET THE MAP TYPE
    var mapType = new google.maps.StyledMapType(style, {
@@ -357,8 +357,19 @@ $(window).on("scroll", function () {
      title: "CoHub",
    });
  }
- 
+
  if ($("#map").length > 0) {
    google.maps.event.addDomListener(window, "load", initialize);
  }
- 
+
+
+ bgefragt wird
+
+var promise = document.querySelector('video').play();
+if (promise !== undefined) {
+promise.then(_ => {
+// Autoplay funktioniert!
+}).catch(error => {
+// Autoplay wurde unterbunden.
+});
+}
